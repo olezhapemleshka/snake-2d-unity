@@ -1,19 +1,19 @@
-# 🐍 Змейка 2D (Unity)
+# 🐍 Snake 2D (Unity)
 
-## 🎮 Описание
-Игра в стиле «Змейка» в неоновом стиле, созданная на Unity.
-Основана на плавном движении и чистом игровом процессе.
+## 🎮 About
+A neon-style Snake game made with Unity.  
+Focused on smooth movement and clean gameplay.
 
-## ⚙️ Особенности
-- Движение по сетке
-- Система подсчета очков
-- Экран «Игра окончена»
-- Отрастающий хвост
+## ⚙️ Features
+- Grid-based movement
+- Score system
+- Game Over screen
+- Growing tail
 
-## 🖼️ Игровой процесс
-Игровой процесс
+## 🖼️ Gameplay
+Gameplay
 
-## 🚀 Как запустить
-1. Клонируйте репозиторий
-2. Откройте в Unity
-3. Запустите сцену
+## 🚀 How to run
+1. Clone the repo
+2. Open in Unity
+3. Play the sce
