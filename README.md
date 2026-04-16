@@ -11,9 +11,8 @@ Focused on smooth movement and clean gameplay.
 - Growing tail
 
 ## 🖼️ Gameplay
-Gameplay
+(будет гифка)
 
 ## 🚀 How to run
-1. Clone the repo
-2. Open in Unity
-3. Play the sce
+скачать Windows:
+скачать MacOS:
