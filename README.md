@@ -1,4 +1,4 @@
-# 🐍 Snake 2D (Unity)
+# 🐍 Snake 2D
 
 ## 🎮 About
 A neon-style Snake game made with Unity.  
