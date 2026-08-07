@@ -1,8 +1,36 @@
 # Snake 2D — archived concept
 
-> Архивный концепт неоновой Snake для Unity. Исходный проект пока не опубликован.
+> An archived neon-Snake concept for Unity. Source code is not public yet.
 
-[![Status](https://img.shields.io/badge/Status-archived-lightgrey)](#статус)
+[![Status](https://img.shields.io/badge/Status-archived-lightgrey)](#status)
+
+## English
+
+### About
+
+This is an early neon-Snake concept for Unity: grid movement, a growing tail, score, and a Game
+Over screen. It is kept as an honest portfolio trace of an idea, not presented as a finished game.
+
+### Published here
+
+- the concept and its intended mechanics;
+- a safe README consistent with the rest of the portfolio.
+
+### Not published
+
+The current public repository does not contain Unity scenes, C# scripts, builds, or game assets.
+It should not be used as evidence of a completed production project.
+
+### Safety boundary
+
+No personal data, keys, builds, or third-party assets are included. If source code is published in
+the future, it will come with run instructions, a license, and a content check.
+
+### Status
+
+**Archived / not featured.** See Mr. Baton, Abnormal Signal Lab, and ZONE for current finished work.
+
+---
 
 ## Русский
 
@@ -32,31 +60,3 @@ Unity-сцены, C#-скрипты, сборки и игровые ассеты
 
 **Archived / not featured.** Для актуальных завершённых работ см. профиль и репозитории
 Mr. Baton, Abnormal Signal Lab и ZONE.
-
----
-
-## English
-
-### About
-
-This is an early neon-Snake concept for Unity: grid movement, a growing tail, score, and a Game
-Over screen. It is kept as an honest portfolio trace of an idea, not presented as a finished game.
-
-### Published here
-
-- the concept and its intended mechanics;
-- a safe README consistent with the rest of the portfolio.
-
-### Not published
-
-The current public repository does not contain Unity scenes, C# scripts, builds, or game assets.
-It should not be used as evidence of a completed production project.
-
-### Safety boundary
-
-No personal data, keys, builds, or third-party assets are included. If source code is published in
-the future, it will come with run instructions, a license, and a content check.
-
-### Status
-
-**Archived / not featured.** See Mr. Baton, Abnormal Signal Lab, and ZONE for current finished work.
