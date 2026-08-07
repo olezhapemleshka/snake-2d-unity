@@ -28,7 +28,9 @@ the future, it will come with run instructions, a license, and a content check.
 
 ### Status
 
-**Archived / not featured.** See Mr. Baton, Abnormal Signal Lab, and ZONE for current finished work.
+**Archived / not featured.** See the [profile](https://github.com/olezhapelmeshka),
+[Mr. Baton](https://github.com/olezhapelmeshka/botmrbaton), and
+[Abnormal Signal Lab](https://github.com/olezhapelmeshka/abnormal-signal-lab) for current work.
 
 ---
 
@@ -58,5 +60,6 @@ Unity-сцены, C#-скрипты, сборки и игровые ассеты
 
 ### Статус
 
-**Archived / not featured.** Для актуальных завершённых работ см. профиль и репозитории
-Mr. Baton, Abnormal Signal Lab и ZONE.
+**Archived / not featured.** Актуальные работы находятся в [профиле](https://github.com/olezhapelmeshka):
+[Mr. Baton](https://github.com/olezhapelmeshka/botmrbaton) и
+[Abnormal Signal Lab](https://github.com/olezhapelmeshka/abnormal-signal-lab).
